@@ -5,13 +5,13 @@
 
 
 ## Day5: Print Currency Code
-<img width="800" alt="Day5" src="./README_FILES/Day5.gif" />
+<img height="800" alt="Day5" src="./README_FILES/Day5.gif" />
 
     ◻ It takes country list from https://www.iban.com/currency-codes.
     ◻ It prints selected country's currency code.
 
 ## Day6: Exchange
-<img width="800" alt="Day6" src="./README_FILES/Day6.gif" />
+<img height="800" alt="Day6" src="./README_FILES/Day6.gif" />
 
     ◻ It applys the exchange rate between selected countries.
 
