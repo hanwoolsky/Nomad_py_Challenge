@@ -19,24 +19,22 @@
 ## Day8: Part-time-job Information
 <img width="1600" alt="Day8" src="./README_FILES/Day8.gif" />
 
-    ◻ It scrap part-time-job information from http://www.alba.co.kr.
+    ◻ It scraps part-time-job information from http://www.alba.co.kr.
 
 
 ## Day9: Woori's news
 <img width="1600" alt="Day9" src="./README_FILES/Day9.gif" />
 
-    ◻ It scrap information from http://hn.algolia.com/api/v1
+    ◻ It scraps information from http://hn.algolia.com/api/v1
 
 
 ## Day11&12: Search Jobs by Language
 <img width="1600" alt="Day11" src="./README_FILES/Day11.gif" />
 
-    ◻ It scrap information from https://reddit.com.
+    ◻ It scraps information from https://reddit.com.
 
 ## Day13&14: Search Jobs by Field
 <img width="1600" alt="Day13" src="./README_FILES/Day13.gif" />
 
-    ◻ It scrap information from
-    ◻ https://stackoverflow.com/jobs?r=true&q=python,
-    ◻ https://weworkremotely.com/remote-jobs/search?term=python,
-    ◻ https://remoteok.io/remote-dev+python-jobs.
+    ◻ It scrap information from https://stackoverflow.com/jobs?r=true&q=python,
+       https://weworkremotely.com/remote-jobs/search?term=python, https://remoteok.io/remote-dev+python-jobs.
